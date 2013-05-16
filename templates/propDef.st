@@ -1,0 +1,1 @@
+propDef(type, name, indexs, formatargs, head, tail) ::= "self.<name> = <head>self.<type>prop('<name><indexs>'.format(<formatargs>))<tail>"
